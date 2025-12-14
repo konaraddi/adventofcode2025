@@ -1,0 +1,2 @@
+- [x] day 1 part 1
+- [ ] the rest
